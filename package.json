@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/VictoriaCarvalhal/NodeJsApresentacao/issues"
   },
-  "homepage": "https://github.com/VictoriaCarvalhal/NodeJsApresentacao#readme"
+  "homepage": "https://github.com/VictoriaCarvalhal/NodeJsApresentacao#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }

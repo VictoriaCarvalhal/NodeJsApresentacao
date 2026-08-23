@@ -13,7 +13,7 @@
  - https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Web_frameworks
 
 
-## Como frameworks server-side funcionam em geral 
+## Como server-side funcionam em geral 
  - https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Introduction
  - https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview
  - https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Web_frameworks
@@ -29,8 +29,19 @@
 ## Express.js framework 
  - https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/Introduction
  - https://expressjs.com
+
+## Historico do Express.js framework 
+- https://en.wikipedia.org/wiki/Express.js
+
+## Concorrentes do Express.js 
  
 ## Codigos de referencia do prisma
 - https://www.prisma.io/docs/orm/prisma-client/queries/relation-queries
 - 
+
+## Diferenca entre enviroment e framework 
+ - https://medium.com/@abdurrahman22/framework-vs-platform-vs-environment-in-software-development-b439ba5a6ee9
+ - https://www.reddit.com/r/explainlikeimfive/comments/1e4m0h0/eli5_in_software_whats_the_difference_between_a/?logging_in=true
+ - http://www.linkedphpers.org/2009/03/webapplications-part-1-framework-vs.html
+ - https://www.huytonweb.com/articles/software-development-library-vs-framework-vs-language-vs-environment
 

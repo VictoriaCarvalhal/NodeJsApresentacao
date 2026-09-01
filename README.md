@@ -41,5 +41,3 @@
  - https://www.reddit.com/r/explainlikeimfive/comments/1e4m0h0/eli5_in_software_whats_the_difference_between_a/?logging_in=true
  - http://www.linkedphpers.org/2009/03/webapplications-part-1-framework-vs.html
  - https://www.huytonweb.com/articles/software-development-library-vs-framework-vs-language-vs-environment
-
-### Agora a formatacao esta correta 

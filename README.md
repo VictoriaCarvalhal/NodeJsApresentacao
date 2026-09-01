@@ -33,11 +33,8 @@
 ## Historico do Express.js framework 
 - https://en.wikipedia.org/wiki/Express.js
 
-## Concorrentes do Express.js 
- 
 ## Codigos de referencia do prisma
 - https://www.prisma.io/docs/orm/prisma-client/queries/relation-queries
-- 
 
 ## Diferenca entre enviroment e framework 
  - https://medium.com/@abdurrahman22/framework-vs-platform-vs-environment-in-software-development-b439ba5a6ee9
